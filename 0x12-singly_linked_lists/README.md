@@ -15,9 +15,3 @@ Write a function that prints You're beat! and yet, you must allow,\nI bore my ho
 Write a 64-bit program in assembly that prints Hello, Holberton, followed by a new line.
 
 
-
-
-
-
-
-
